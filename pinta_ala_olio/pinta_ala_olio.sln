@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pinta_ala_olio", "pinta_ala_olio.csproj", "{DA80B672-15EE-4166-9488-496207666207}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA80B672-15EE-4166-9488-496207666207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA80B672-15EE-4166-9488-496207666207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA80B672-15EE-4166-9488-496207666207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA80B672-15EE-4166-9488-496207666207}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C223C71-9C78-4B42-882A-BD27075C2751}
+	EndGlobalSection
+EndGlobal

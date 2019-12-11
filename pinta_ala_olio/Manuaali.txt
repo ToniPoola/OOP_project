@@ -1,0 +1,7 @@
+﻿Ohje laskurin käyttöön.
+Laskimessa on kolme toimintoa, se laskee Neliön pinta-alan,
+Kolmion pinta-alan ja ympyrän pinta-alan.
+Neliölle ja kolmiolle annetaan arvot kannalle ja korkeudella.
+Ympyrälle annetaan säteen(r) pituus.
+
+Paina Enter- näppäintä jatkaaksesi...
